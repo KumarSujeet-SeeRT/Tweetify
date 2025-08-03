@@ -142,7 +142,16 @@ The following packages are required (see `requirements.txt`):
 
 ## 📸 Screenshots
 
-Add screenshots of your tweet, terminal logs, and Telegram message if needed.
+### 🐤 Tweet posted by Tweetify  
+[View on X (Twitter)](https://x.com/arthalogy/status/1952121100051038380)  
+<img src="https://github.com/user-attachments/assets/00aa499f-6aa4-4726-ba40-4af1ce90ebe0" alt="Tweet Screenshot" width="747" height="200" />
+
+---
+
+### 📲 Telegram Notification from Tweetify Bot  
+<img src="https://github.com/user-attachments/assets/8eaf96be-d8f8-4596-ab63-5fe43aa4db9c" alt="Telegram Screenshot" width="611" height="181" />
+
+
 
 ## 📄 License
 
